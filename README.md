@@ -1,5 +1,5 @@
 # Overview of Project
-This project builds a table using data stored in a JavaScript array. It also creates filters for a fully dynamic table. By placing the table into an HTML file, users can easily view it. When the user adjusts its inputs and filters, the table reacts accordingly.
+This project builds a table using data stored in a JavaScript array. It also creates filters for a fully dynamic table. By placing the table into an HTML file, users can easily view it. When the user adjusts its inputs, the table reacts accordingly.
 # Results
 Click on the index.html file to view the website. 
 \
