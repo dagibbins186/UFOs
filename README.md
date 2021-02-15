@@ -24,4 +24,4 @@ The website allows users to explore UFO sitings and make a decision for themselv
 Over time, the project could benefit from some improvements. For example, the table's filter requires inputs to hold a particular format. If a user puts 1/13/10 instead of 1/13/2010, the data will not show. The next iteration will allow for this flexibility. 
 \
 \
-In addition, some filters do not effectively display information. While there are only five entries if the user enters Cajon, CA. 109 entries display if the user picks "us" for country. A summary that shows the number of results or graphs them will help users make meaning if there are numerous entries.
+In addition, some filters do not effectively display information. While there are only five entries if the user enters Cajon, CA. 109 entries display if the user picks "us" for country. A summary that shows the number of results or graphs them will help users make meaning for numerous entries.
