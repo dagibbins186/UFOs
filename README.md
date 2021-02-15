@@ -1,7 +1,7 @@
 # Overview of Project
 This project builds a table using data stored in a JavaScript array. It also creates filters for a fully dynamic table. By placing the table into an HTML file, users can easily view it. When the user adjusts its inputs, the table reacts accordingly.
 # Results
-Click on the index.html file to view the website. 
+The following details the project's steps. First, click on the index.html file to view the website. You will see a beautiful page; complete with picture, title, text and table.
 \
 !["TruthOutThereWebpage.PNG"](https://github.com/dagibbins186/UFOs/blob/main/UFOs/images/TruthOutThereWebpage.PNG)
 \
