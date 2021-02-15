@@ -6,7 +6,7 @@ The following details the project's steps. First, click on the index.html file t
 !["TruthOutThereWebpage.PNG"](https://github.com/dagibbins186/UFOs/blob/main/UFOs/images/TruthOutThereWebpage.PNG)
 \
 \
-The page explains the site content, UFO sitings. Going to the bottom of the page, a user can identify UFO sitings by date, city, date, country or UFO shape. For example, when the user enters 1/13/2010, three results appear in the table.
+The page explains the site's content, UFO sitings. Going to the bottom of the page, a user can identify UFO sitings by date, city, date, country or UFO shape. For example, when the user enters 1/13/2010, three results appear in the table.
 \
 !["DatefilterWebsite.PNG"](https://github.com/dagibbins186/UFOs/blob/main/UFOs/images/DatefilterWebsite.PNG)
 \
